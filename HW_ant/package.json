@@ -3,7 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://damzh87.github.io",
+
+
+
+  
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
@@ -16,6 +23,7 @@
     "@mui/system": "^6.4.0",
     "antd": "^5.23.3",
     "axios": "^1.7.9",
+    "gh-pages": "^6.3.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.1.1"
