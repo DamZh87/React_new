@@ -4,7 +4,7 @@
 @layer base {
   :root {
 
-    
+    --btn-background: 205, 90%, 44%;
     --main-background: 220, 43%, 8%;
     --body-background: 217, 18%, 26%;
 
@@ -45,7 +45,7 @@
     --sidebar-ring: 217.2 91.2% 59.8%}
   .dark {
     
-   
+    --btn-background: 205, 90%, 44%;
     --main-background: 220, 43%, 8%;
     --body-background: 217, 18%, 26%;
 

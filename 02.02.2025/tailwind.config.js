@@ -13,7 +13,7 @@ module.exports = {
 
 			mainbackground:'hsl(var(--main-background))',
 			bodybackground: 'hsl(var(--body-background))',
-
+			btnbackground: 'hsl(var(--btn-background))',
 
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
