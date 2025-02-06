@@ -1,4 +1,4 @@
-export const IconClass = [
+export const IconClasses = [
      "flex flex-col justify-between text-muted-foreground",
      "self-center ", 
      "text-xs pt-2 self-center mb-7",
